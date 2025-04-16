@@ -207,3 +207,4 @@ No Rotate
 Reset VL
 Velocity
 No Void
+link: https://github.com/fariorus/Oringo-Client-Crack/releases/tag/Oringo-Client
