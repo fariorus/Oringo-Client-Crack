@@ -2,8 +2,8 @@
 Oringo-Client-Supporter version imo best hypixel skyblock cheat
 GUI Screenshot
 Screenshot
-dd
-Feature list
+
+Feature lists
 Skyblock
 Skills
 Mithril Macro
